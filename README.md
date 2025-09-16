@@ -1,4 +1,4 @@
-Let me search for practical LSTM use-cases in commercial games and their label setups.
+Let me search for practical LSTM use-cases in commercial games and their label setups.   
 실무 게임에서 LSTM을 쓸 때는  
 “행동 시퀀스를 몇 초간 모아서 → 다음 행동 1개를 분류/회귀” 하는 **many-to-one** 구조가 압도적으로 많습니다.  
 label 종류는 **3~8개**가 가장 무난하고, 2개(이진) 또는 10개 넘게 쓰는 경우는 특수 상황입니다.
